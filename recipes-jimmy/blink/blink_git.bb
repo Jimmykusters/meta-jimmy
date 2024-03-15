@@ -12,6 +12,8 @@
 LICENSE = "CLOSED"
 LIC_FILES_CHKSUM = ""
 
+DEPENDS = "curl nlohmann-json" 
+
 SRCNAME = "blink"
 PKG_NAME = "github.com/Jimmykusters/${SRCNAME}"
 
